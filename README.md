@@ -1,1 +1,1 @@
-# AI_Image_Generate_-2D-3D-Image
+# AI_Image_2D_3D_Generate
